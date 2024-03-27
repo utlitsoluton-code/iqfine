@@ -1,0 +1,9 @@
+/* styles.css */
+.nav-link {
+    text-decoration: none;
+    color: #666; 
+  }
+  .nav-link:hover {
+    color: var(--color-pink); /* Hover text color */
+  }
+  
